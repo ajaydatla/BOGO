@@ -9,5 +9,5 @@ public class BogoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BogoApplication.class, args);
 	}
-
+//
 }
